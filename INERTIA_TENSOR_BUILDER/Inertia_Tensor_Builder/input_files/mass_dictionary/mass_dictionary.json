@@ -1,0 +1,474 @@
+[
+	{
+		"id": "computercraft:computer_advanced",
+		"mass": 15395
+	},
+	{
+		"id": "minecraft:grass_block",
+		"mass": 100
+	},
+	{
+		"id": "minecraft:dirt_path",
+		"mass": 1200
+	},
+	{
+		"id": "vs_eureka:acacia_ship_helm",
+		"mass": 100
+	},
+	{
+		"id": "advancedperipherals:redstone_integrator",
+		"mass": 100
+	},
+	{
+		"id": "vs_tournament:thruster",
+		"mass": 400
+	},
+	{
+		"id": "minecraft:blue_stained_glass",
+		"mass": 2000
+	},
+	{
+		"id": "minecraft:glass",
+		"mass": 2000
+	},
+	{
+		"id": "computercraft:cable",
+		"mass": 160
+	},
+	{
+		"id": "vc:reader_cc",
+		"mass": 100
+	},
+	{
+		"id": "minecraft:netherite_block",
+		"mass": 19280
+	},
+	{
+		"id": "computercraft:wireless_modem_advanced",
+		"mass": 15250
+	},
+	{
+		"id": "minecraft:black_glazed_terracotta",
+		"mass": 2000
+	},
+	{
+		"id": "minecraft:magma_block",
+		"mass": 3200
+	},
+	{
+		"id": "minecraft:black_shulker_box",
+		"mass": 800
+	},
+	{
+		"id": "minecraft:blackstone_slab",
+		"mass": 1700
+	},
+	{
+		"id": "minecraft:blackstone_stairs",
+		"mass": 2550
+	},
+	{
+		"id": "minecraft:gilded_blackstone",
+		"mass": 3800
+	},
+	{
+		"id": "minecraft:polished_blackstone_bricks",
+		"mass": 3400
+	},
+	{
+		"id": "mcwwindows:blackstone_brick_arrow_slit",
+		"mass": 100
+	},
+	{
+		"id": "create:hand_crank",
+		"mass": 100
+	},
+	{
+		"id": "minecraft:lever",
+		"mass": 10
+	},
+	{
+		"id": "minecraft:dispenser",
+		"mass": 2800
+	},
+	{
+		"id": "minecraft:hopper",
+		"mass": 3800
+	},
+	{
+		"id": "minecraft:redstone_wire",
+		"mass": 5
+	},
+	{
+		"id": "minecraft:redstone_block",
+		"mass": 1350
+	},
+	{
+		"id": "minecraft:redstone_torch",
+		"mass": 5
+	},
+	{
+		"id": "minecraft:chest",
+		"mass": 400
+	},
+	{
+		"id": "createbigcannons:cannon_mount",
+		"mass": 100
+	},
+	{
+		"id": "create:mechanical_bearing",
+		"mass": 100
+	},
+	{
+		"id": "create:clutch",
+		"mass": 100
+	},
+	{
+		"id": "create:gearbox",
+		"mass": 100
+	},
+	{
+		"id": "create:red_seat",
+		"mass": 100
+	},
+	{
+		"id": "minecraft:black_banner",
+		"mass": 30
+	},
+	{
+		"id": "create:andesite_casing",
+		"mass": 100
+	},
+	{
+		"id": "create:brass_casing",
+		"mass": 100
+	},
+	{
+		"id": "create:copper_casing",
+		"mass": 100
+	},
+	{
+		"id": "create:railway_casing",
+		"mass": 100
+	},
+	{
+		"id": "create:creative_motor",
+		"mass": 100
+	},
+	{
+		"id": "minecraft:polished_blackstone_brick_slab",
+		"mass": 1700
+	},
+	{
+		"id": "minecraft:blackstone",
+		"mass": 3400
+	},
+	{
+		"id": "create:redstone_link",
+		"mass": 100
+	},
+	{
+		"id": "vs_clockwork:physics_infuser",
+		"mass": 100
+	},
+	{
+		"id": "minecraft:black_carpet",
+		"mass": 20
+	},
+	{
+		"id": "minecraft:redstone_wall_torch",
+		"mass": 100
+	},
+	{
+		"id": "minecraft:lava",
+		"mass": 100
+	},
+	{
+		"id": "mcwwindows:black_curtain",
+		"mass": 100
+	},
+	{
+		"id": "vs_clockwork:intake",
+		"mass": 100
+	},
+	{
+		"id": "vs_clockwork:afterblazer",
+		"mass": 100
+	},
+	{
+		"id": "minecraft:obsidian",
+		"mass": 2350
+	},
+	{
+		"id": "minecraft:crying_obsidian",
+		"mass": 2350
+	},
+	{
+		"id": "minecraft:diamond_block",
+		"mass": 3520
+	},
+	{
+		"id": "minecraft:polished_blackstone_brick_slab",
+		"mass": 1700
+	},
+	{
+		"id": "minecraft:deepslate_tile_slab",
+		"mass": 1360
+	},
+	{
+		"id": "minecraft:polished_blackstone_slab",
+		"mass": 1700
+	},
+	{
+		"id": "create:small_deepslate_brick_slab",
+		"mass": 100
+	},
+	{
+		"id": "create:small_scorchia_brick_slab",
+		"mass": 100
+	},
+	{
+		"id": "minecraft:blue_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:spruce_log",
+		"mass": 780
+	},
+	{
+		"id": "minecraft:orange_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:nether_brick_slab",
+		"mass": 950
+	},
+	{
+		"id": "minecraft:polished_blackstone_stairs",
+		"mass": 2550
+	},
+	{
+		"id": "mcwwindows:ender_brick_arrow_slit",
+		"mass": 100
+	},
+	{
+		"id": "mcwwindows:nether_brick_arrow_slit",
+		"mass": 100
+	},
+	{
+		"id": "minecraft:smooth_sandstone_stairs",
+		"mass": 1725
+	},
+	{
+		"id": "create:small_asurine_brick_stairs",
+		"mass": 100
+	},
+	{
+		"id": "minecraft:polished_andesite_stairs",
+		"mass": 2080
+	},
+	{
+		"id": "minecraft:smooth_quartz_stairs",
+		"mass": 1740
+	},
+	{
+		"id": "minecraft:end_stone_brick_slab",
+		"mass": 1400
+	},
+	{
+		"id": "vc:radar_cc",
+		"mass": 100
+	},
+	{
+		"id": "create:brass_block",
+		"mass": 100
+	},
+	{
+		"id": "minecraft:polished_deepslate",
+		"mass": 2720
+	},
+	{
+		"id": "minecraft:iron_block",
+		"mass": 7840
+	},
+	{
+		"id": "minecraft:chiseled_quartz_block",
+		"mass": 2320
+	},
+	{
+		"id": "minecraft:gold_block",
+		"mass": 19280
+	},
+	{
+		"id": "vs_tournament:spinner",
+		"mass": 350
+	},
+	{
+		"id": "minecraft:stripped_birch_wood",
+		"mass": 770
+	},
+	{
+		"id": "minecraft:spruce_planks",
+		"mass": 480
+	},
+	{
+		"id": "createdeco:gold_sheet_slab_vert",
+		"mass": 100
+	},
+	{
+		"id": "createdeco:brass_sheet_slab_vert",
+		"mass": 100
+	},
+	{
+		"id": "createdeco:gold_sheet_stairs",
+		"mass": 100
+	},
+	{
+		"id": "createdeco:gold_sheet_slab",
+		"mass": 100
+	},
+	{
+		"id": "vs_clockwork:phys_bearing",
+		"mass": 100
+	},
+	{
+		"id": "computercraft:turtle_advanced",
+		"mass": 15795
+	},
+	{
+		"id": "createcomputing:computerized_redstone_link",
+		"mass": 100
+	},
+	{
+		"id": "minecraft:white_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:light_blue_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "computercraft:turtle_normal",
+		"mass": 3600
+	},
+	{
+		"id": "minecraft:yellow_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:white_glazed_terracotta",
+		"mass": 2000
+	},
+	{
+		"id": "minecraft:orange_glazed_terracotta",
+		"mass": 2000
+	},
+	{
+		"id": "minecraft:magenta_glazed_terracotta",
+		"mass": 2000
+	},
+	{
+		"id": "minecraft:light_blue_glazed_terracotta",
+		"mass": 2000
+	},
+	{
+		"id": "minecraft:yellow_glazed_terracotta",
+		"mass": 2000
+	},
+	{
+		"id": "minecraft:lime_glazed_terracotta",
+		"mass": 2000
+	},
+	{
+		"id": "minecraft:pink_glazed_terracotta",
+		"mass": 2000
+	},
+	{
+		"id": "minecraft:gray_glazed_terracotta",
+		"mass": 2000
+	},
+	{
+		"id": "minecraft:light_gray_glazed_terracotta",
+		"mass": 2000
+	},
+	{
+		"id": "minecraft:cyan_glazed_terracotta",
+		"mass": 2000
+	},
+	{
+		"id": "minecraft:purple_glazed_terracotta",
+		"mass": 2000
+	},
+	{
+		"id": "minecraft:blue_glazed_terracotta",
+		"mass": 2000
+	},
+	{
+		"id": "minecraft:brown_glazed_terracotta",
+		"mass": 2000
+	},
+	{
+		"id": "minecraft:green_glazed_terracotta",
+		"mass": 2000
+	},
+	{
+		"id": "minecraft:red_glazed_terracotta",
+		"mass": 2000
+	},
+	{
+		"id": "minecraft:red_banner",
+		"mass": 30
+	},
+	{
+		"id": "extendedslabs:vertical_red_wool_slab",
+		"mass": 450
+	},
+		{
+		"id": "minecraft:red_wall_banner",
+		"mass": 30
+	},
+	{
+		"id": "minecraft:black_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:magenta_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:purple_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:lime_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:orange_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:gray_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:light_gray_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:cyan_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:brown_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:green_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:red_stained_glass_pane",
+		"mass": 250
+	}
+]

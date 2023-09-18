@@ -1,0 +1,2410 @@
+{
+  "name": "Named Binary Tag to JSON",
+  "version": "0.4.0",
+  "nbt2JsonUrl": "https://github.com/midnightfreddie/nbt2json",
+  "conversionTime": "2023-05-08T18:12:44+08:00",
+  "nbt": [
+    {
+      "tagType": 10,
+      "name": "",
+      "value": [
+        {
+          "tagType": 9,
+          "name": "size",
+          "value": {
+            "tagListType": 3,
+            "list": [
+              7,
+              9,
+              7
+            ]
+          }
+        },
+        {
+          "tagType": 9,
+          "name": "entities",
+          "value": {
+            "tagListType": 0,
+            "list": null
+          }
+        },
+        {
+          "tagType": 9,
+          "name": "blocks",
+          "value": {
+            "tagListType": 10,
+            "list": [
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      1,
+                      0,
+                      1
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 0
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      5,
+                      0,
+                      5
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 0
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      3,
+                      1,
+                      3
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 0
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      0,
+                      2,
+                      0
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 0
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      3,
+                      2,
+                      3
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 0
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      6,
+                      2,
+                      6
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 0
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      3,
+                      3,
+                      3
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 1
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      3,
+                      5,
+                      3
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 1
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      0,
+                      6,
+                      0
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 0
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      3,
+                      6,
+                      3
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 0
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      6,
+                      6,
+                      6
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 0
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      3,
+                      7,
+                      3
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 2
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      1,
+                      8,
+                      1
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 0
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      5,
+                      8,
+                      5
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 0
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      1,
+                      1,
+                      1
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 3
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      5,
+                      1,
+                      5
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 3
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      1,
+                      2,
+                      2
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 4
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      2,
+                      2,
+                      1
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 5
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      4,
+                      2,
+                      5
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 6
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      5,
+                      2,
+                      4
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 7
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      1,
+                      6,
+                      2
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 4
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      2,
+                      6,
+                      1
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 5
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      4,
+                      6,
+                      5
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 6
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      5,
+                      6,
+                      4
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 7
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      1,
+                      7,
+                      1
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 8
+                }
+              ],
+              [
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      5,
+                      7,
+                      5
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 8
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "nbt",
+                  "value": [
+                    {
+                      "tagType": 3,
+                      "name": "NORTHPower",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 9,
+                      "name": "Items",
+                      "value": {
+                        "tagListType": 0,
+                        "list": null
+                      }
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "UPPower",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "id",
+                      "value": "advancedperipherals:redstone_integrator"
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "WESTPower",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "DOWNPower",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "SOUTHPower",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "EASTPower",
+                      "value": 0
+                    }
+                  ]
+                },
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      1,
+                      2,
+                      1
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 9
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "nbt",
+                  "value": [
+                    {
+                      "tagType": 10,
+                      "name": "ForgeData",
+                      "value": [
+                        {
+                          "tagType": 8,
+                          "name": "CustomName",
+                          "value": "[Redstone Integrator]"
+                        }
+                      ]
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "NORTHPower",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 9,
+                      "name": "Items",
+                      "value": {
+                        "tagListType": 0,
+                        "list": null
+                      }
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "UPPower",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "id",
+                      "value": "advancedperipherals:redstone_integrator"
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "WESTPower",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "DOWNPower",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "SOUTHPower",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "EASTPower",
+                      "value": 0
+                    }
+                  ]
+                },
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      5,
+                      2,
+                      5
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 10
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "nbt",
+                  "value": [
+                    {
+                      "tagType": 1,
+                      "name": "PeirpheralAccess",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "id",
+                      "value": "computercraft:cable"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      1,
+                      3,
+                      1
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 11
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "nbt",
+                  "value": [
+                    {
+                      "tagType": 1,
+                      "name": "PeirpheralAccess",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "id",
+                      "value": "computercraft:cable"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      1,
+                      3,
+                      2
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 12
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "nbt",
+                  "value": [
+                    {
+                      "tagType": 1,
+                      "name": "PeirpheralAccess",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "id",
+                      "value": "computercraft:cable"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      2,
+                      3,
+                      2
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 13
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "nbt",
+                  "value": [
+                    {
+                      "tagType": 1,
+                      "name": "PeirpheralAccess",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "id",
+                      "value": "computercraft:cable"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      4,
+                      3,
+                      4
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 14
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "nbt",
+                  "value": [
+                    {
+                      "tagType": 1,
+                      "name": "PeirpheralAccess",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "id",
+                      "value": "computercraft:cable"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      4,
+                      3,
+                      5
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 12
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "nbt",
+                  "value": [
+                    {
+                      "tagType": 1,
+                      "name": "PeirpheralAccess",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "id",
+                      "value": "computercraft:cable"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      5,
+                      3,
+                      5
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 15
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "nbt",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "id",
+                      "value": "computercraft:wireless_modem_advanced"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      2,
+                      4,
+                      1
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 16
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "nbt",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "id",
+                      "value": "computercraft:computer_advanced"
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "ComputerId",
+                      "value": 6
+                    },
+                    {
+                      "tagType": 1,
+                      "name": "On",
+                      "value": 0
+                    }
+                  ]
+                },
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      2,
+                      4,
+                      2
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 17
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "nbt",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "id",
+                      "value": "computercraft:wireless_modem_advanced"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      2,
+                      4,
+                      3
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 18
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "nbt",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "id",
+                      "value": "computercraft:computer_advanced"
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "ComputerId",
+                      "value": 3
+                    },
+                    {
+                      "tagType": 1,
+                      "name": "On",
+                      "value": 0
+                    }
+                  ]
+                },
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      3,
+                      4,
+                      3
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 19
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "nbt",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "id",
+                      "value": "computercraft:wireless_modem_advanced"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      3,
+                      4,
+                      4
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 20
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "nbt",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "id",
+                      "value": "computercraft:computer_advanced"
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "ComputerId",
+                      "value": 5
+                    },
+                    {
+                      "tagType": 1,
+                      "name": "On",
+                      "value": 0
+                    }
+                  ]
+                },
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      4,
+                      4,
+                      4
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 17
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "nbt",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "id",
+                      "value": "computercraft:wireless_modem_advanced"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      5,
+                      4,
+                      4
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 21
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "nbt",
+                  "value": [
+                    {
+                      "tagType": 1,
+                      "name": "PeirpheralAccess",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "id",
+                      "value": "computercraft:cable"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      1,
+                      5,
+                      1
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 22
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "nbt",
+                  "value": [
+                    {
+                      "tagType": 1,
+                      "name": "PeirpheralAccess",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "id",
+                      "value": "computercraft:cable"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      1,
+                      5,
+                      2
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 12
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "nbt",
+                  "value": [
+                    {
+                      "tagType": 1,
+                      "name": "PeirpheralAccess",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "id",
+                      "value": "computercraft:cable"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      2,
+                      5,
+                      2
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 23
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "nbt",
+                  "value": [
+                    {
+                      "tagType": 1,
+                      "name": "PeirpheralAccess",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "id",
+                      "value": "computercraft:cable"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      4,
+                      5,
+                      4
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 24
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "nbt",
+                  "value": [
+                    {
+                      "tagType": 1,
+                      "name": "PeirpheralAccess",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "id",
+                      "value": "computercraft:cable"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      4,
+                      5,
+                      5
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 12
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "nbt",
+                  "value": [
+                    {
+                      "tagType": 1,
+                      "name": "PeirpheralAccess",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "id",
+                      "value": "computercraft:cable"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      5,
+                      5,
+                      5
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 25
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "nbt",
+                  "value": [
+                    {
+                      "tagType": 10,
+                      "name": "ForgeData",
+                      "value": [
+                        {
+                          "tagType": 8,
+                          "name": "CustomName",
+                          "value": "[Redstone Integrator]"
+                        }
+                      ]
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "NORTHPower",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 9,
+                      "name": "Items",
+                      "value": {
+                        "tagListType": 0,
+                        "list": null
+                      }
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "UPPower",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "id",
+                      "value": "advancedperipherals:redstone_integrator"
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "WESTPower",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "DOWNPower",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "SOUTHPower",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "EASTPower",
+                      "value": 0
+                    }
+                  ]
+                },
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      1,
+                      6,
+                      1
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 9
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "nbt",
+                  "value": [
+                    {
+                      "tagType": 3,
+                      "name": "NORTHPower",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 9,
+                      "name": "Items",
+                      "value": {
+                        "tagListType": 0,
+                        "list": null
+                      }
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "UPPower",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "id",
+                      "value": "advancedperipherals:redstone_integrator"
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "WESTPower",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "DOWNPower",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "SOUTHPower",
+                      "value": 0
+                    },
+                    {
+                      "tagType": 3,
+                      "name": "EASTPower",
+                      "value": 0
+                    }
+                  ]
+                },
+                {
+                  "tagType": 9,
+                  "name": "pos",
+                  "value": {
+                    "tagListType": 3,
+                    "list": [
+                      5,
+                      6,
+                      5
+                    ]
+                  }
+                },
+                {
+                  "tagType": 3,
+                  "name": "state",
+                  "value": 10
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "tagType": 9,
+          "name": "palette",
+          "value": {
+            "tagListType": 10,
+            "list": [
+              [
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "minecraft:glass"
+                }
+              ],
+              [
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "vc:reader_cc"
+                }
+              ],
+              [
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "minecraft:blue_stained_glass"
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "Properties",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "tier",
+                      "value": "5"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "facing",
+                      "value": "down"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "power",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "vs_tournament:thruster"
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "Properties",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "tier",
+                      "value": "5"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "facing",
+                      "value": "north"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "power",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "vs_tournament:thruster"
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "Properties",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "tier",
+                      "value": "5"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "facing",
+                      "value": "west"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "power",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "vs_tournament:thruster"
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "Properties",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "tier",
+                      "value": "5"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "facing",
+                      "value": "east"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "power",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "vs_tournament:thruster"
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "Properties",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "tier",
+                      "value": "5"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "facing",
+                      "value": "south"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "power",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "vs_tournament:thruster"
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "Properties",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "tier",
+                      "value": "5"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "facing",
+                      "value": "up"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "power",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "vs_tournament:thruster"
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "Properties",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "orientation",
+                      "value": "up_north"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "advancedperipherals:redstone_integrator"
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "Properties",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "orientation",
+                      "value": "up_east"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "advancedperipherals:redstone_integrator"
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "Properties",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "east",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "waterlogged",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "south",
+                      "value": "true"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "north",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "west",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "modem",
+                      "value": "down_off_peripheral"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "up",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "cable",
+                      "value": "true"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "down",
+                      "value": "true"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "computercraft:cable"
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "Properties",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "east",
+                      "value": "true"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "waterlogged",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "south",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "north",
+                      "value": "true"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "west",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "modem",
+                      "value": "none"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "up",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "cable",
+                      "value": "true"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "down",
+                      "value": "false"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "computercraft:cable"
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "Properties",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "east",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "waterlogged",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "south",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "north",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "west",
+                      "value": "true"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "modem",
+                      "value": "up_off"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "up",
+                      "value": "true"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "cable",
+                      "value": "true"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "down",
+                      "value": "false"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "computercraft:cable"
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "Properties",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "east",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "waterlogged",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "south",
+                      "value": "true"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "north",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "west",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "modem",
+                      "value": "up_off"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "up",
+                      "value": "true"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "cable",
+                      "value": "true"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "down",
+                      "value": "false"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "computercraft:cable"
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "Properties",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "east",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "waterlogged",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "south",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "north",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "west",
+                      "value": "true"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "modem",
+                      "value": "down_off_peripheral"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "up",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "cable",
+                      "value": "true"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "down",
+                      "value": "true"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "computercraft:cable"
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "Properties",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "waterlogged",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "facing",
+                      "value": "south"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "on",
+                      "value": "true"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "computercraft:wireless_modem_advanced"
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "Properties",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "facing",
+                      "value": "south"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "state",
+                      "value": "on"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "computercraft:computer_advanced"
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "Properties",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "waterlogged",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "facing",
+                      "value": "east"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "on",
+                      "value": "false"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "computercraft:wireless_modem_advanced"
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "Properties",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "facing",
+                      "value": "east"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "state",
+                      "value": "blinking"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "computercraft:computer_advanced"
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "Properties",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "waterlogged",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "facing",
+                      "value": "north"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "on",
+                      "value": "true"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "computercraft:wireless_modem_advanced"
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "Properties",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "waterlogged",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "facing",
+                      "value": "west"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "on",
+                      "value": "true"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "computercraft:wireless_modem_advanced"
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "Properties",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "east",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "waterlogged",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "south",
+                      "value": "true"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "north",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "west",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "modem",
+                      "value": "up_off_peripheral"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "up",
+                      "value": "true"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "cable",
+                      "value": "true"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "down",
+                      "value": "false"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "computercraft:cable"
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "Properties",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "east",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "waterlogged",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "south",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "north",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "west",
+                      "value": "true"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "modem",
+                      "value": "down_off"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "up",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "cable",
+                      "value": "true"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "down",
+                      "value": "true"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "computercraft:cable"
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "Properties",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "east",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "waterlogged",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "south",
+                      "value": "true"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "north",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "west",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "modem",
+                      "value": "down_off"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "up",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "cable",
+                      "value": "true"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "down",
+                      "value": "true"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "computercraft:cable"
+                }
+              ],
+              [
+                {
+                  "tagType": 10,
+                  "name": "Properties",
+                  "value": [
+                    {
+                      "tagType": 8,
+                      "name": "east",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "waterlogged",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "south",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "north",
+                      "value": "false"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "west",
+                      "value": "true"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "modem",
+                      "value": "up_off_peripheral"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "up",
+                      "value": "true"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "cable",
+                      "value": "true"
+                    },
+                    {
+                      "tagType": 8,
+                      "name": "down",
+                      "value": "false"
+                    }
+                  ]
+                },
+                {
+                  "tagType": 8,
+                  "name": "Name",
+                  "value": "computercraft:cable"
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "tagType": 3,
+          "name": "DataVersion",
+          "value": 2975
+        }
+      ]
+    }
+  ]
+}
