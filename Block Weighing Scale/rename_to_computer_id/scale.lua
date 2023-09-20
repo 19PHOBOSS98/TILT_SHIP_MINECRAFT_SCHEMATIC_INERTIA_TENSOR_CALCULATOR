@@ -15,7 +15,7 @@ function initMassDictionaryJSON()
 end
 
 function getMassDictionaryJSON()
-	local h = fs.open("mass_dictionary","r")
+	local h = fs.open("mass_dictionary.txt","r")
 	serialized_dict = h.readAll()
 	obj = json.decode(serialized_dict)
 	h.close()
@@ -23,7 +23,7 @@ function getMassDictionaryJSON()
 end
 
 function saveMassDictionary(md_obj)
-	local h = fs.open("mass_dictionary","w")
+	local h = fs.open("mass_dictionary.txt","w")
 	h.writeLine(json.encodePretty(md_obj))
 	h.flush()
 	h.close()
