@@ -152,6 +152,38 @@
 		"mass": 100
 	},
 	{
+		"id": "create:creative_motor",
+		"mass": 100
+	},
+	{
+		"id": "minecraft:polished_blackstone_brick_slab",
+		"mass": 1700
+	},
+	{
+		"id": "minecraft:blackstone",
+		"mass": 3400
+	},
+	{
+		"id": "create:redstone_link",
+		"mass": 100
+	},
+	{
+		"id": "vs_clockwork:physics_infuser",
+		"mass": 100
+	},
+	{
+		"id": "minecraft:black_carpet",
+		"mass": 20
+	},
+	{
+		"id": "minecraft:redstone_wall_torch",
+		"mass": 100
+	},
+	{
+		"id": "minecraft:lava",
+		"mass": 100
+	},
+	{
 		"id": "mcwwindows:black_curtain",
 		"mass": 100
 	},
@@ -391,8 +423,56 @@
 		"id": "extendedslabs:vertical_red_wool_slab",
 		"mass": 450
 	},
-	{
+		{
 		"id": "minecraft:red_wall_banner",
 		"mass": 30
+	},
+	{
+		"id": "minecraft:black_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:magenta_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:purple_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:lime_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:orange_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:gray_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:light_gray_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:cyan_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:brown_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:green_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:red_stained_glass_pane",
+		"mass": 250
+	},
+	{
+		"id": "minecraft:redstone_lamp",
+		"mass": 1200
 	}
 ]
