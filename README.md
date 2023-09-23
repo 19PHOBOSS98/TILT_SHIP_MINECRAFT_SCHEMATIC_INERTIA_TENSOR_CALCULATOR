@@ -46,7 +46,7 @@ Until the Valkyrien Skies 2 Computer addon releases an update to expose a ships 
   
 ### Setup And How To Use
 1. Build `Block Weighing Scale/0weighing_scale_1.nbt` and assemble it as a VS2 ship (use a VS2-Eureka Helm block). Take note of the Computercraft Turtle's Computer ID.
-2. Drop `rename_to_computer_id` folder and its contents in your save world's `omputercraft/computer` folder and rename it to the weighing scale Turtle's Computer ID
+2. Drop `rename_to_computer_id` folder and its contents in your save world's `computercraft/computer` folder and rename it to the weighing scale Turtle's Computer ID
 3. In-game run `scale.lua` on the weighing scale's Turtle
 4. Place the block that you want to weigh infront of the Turtle
 5. The scale will save the readings in the `mass_dictionary` file
