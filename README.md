@@ -13,7 +13,8 @@ Until the Valkyrien Skies 2 Computer addon releases an update to expose a ships 
 
 ## HOW TO CALCULATE YOUR BUILD'S INERTIA TENSOR
 1. Use the included VS2 weighing scale to add new blocks to the `mass_dictionary`. Follow the instructions on how to setup and use it
-2. Use CreateMod-Schematics to create a schematic file of your build. Remember, NOT to include Create-contraptions in the schematic files. This might mess with the Inertia Tensor calculation since contraptions don't weigh anything as long as they stay in that state aboard a "physicised" ship.
+2. Use CreateMod-Schematics to create a schematic file of your build. 
+    + Remember, NOT to include Create-contraptions in the schematic files. This might mess with the Inertia Tensor calculation since contraptions don't contribute to the overall weight of a VS2-ship.
 3. Copy the file over to `INERTIA_TENSOR_BUILDER\Inertia_Tensor_Builder\input_files\create_schematic_files\`
 4. At the `buildInertiaTensor()` in the `buildInertiaTensor.class` type in the name of your build schematic:
 
